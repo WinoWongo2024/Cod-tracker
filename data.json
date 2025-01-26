@@ -1,0 +1,16 @@
+{
+  "player": "YourPlayerName", // Replace with the actual player name
+  "stats": [
+    {
+      "date": "2024-10-25", // Date of the stats
+      "mode": "Multiplayer", // Game mode
+      "mvpGames": 270,      // Number of MVP games
+      "gamesPlayed": 766,   // Total games played
+      "top3Kills": 496,     // Number of times in top 3 for kills
+      "kills": 14437,       // Total kills
+      "kdRatio": 3.93,      // Kill/Death ratio
+      "accuracy": 25.22     // Average accuracy (percentage)
+    }
+    // You can add more stat entries for different dates or game modes here
+  ]
+}
